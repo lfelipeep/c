@@ -1,4 +1,4 @@
-#Ejercicios en Lenguaje C
+# Ejercicios en Lenguaje C
 
 Este repositorio contiene una serie de ejercicios prácticos en C, organizados por temas fundamentales del lenguaje.
 El objetivo es practicar estructuras básicas como variables, operadores, ciclos, condiciones, arreglos y manejo de cadenas.
