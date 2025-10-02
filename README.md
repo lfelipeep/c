@@ -46,7 +46,7 @@ Ejercicio 1: Imprimir los números del 1 al 10 usando for.
 
 Ejercicio 2: Calcular la suma de los primeros 5 números naturales usando while.
 
-#ciclos_seleccion
+# ciclos_seleccion
 
 Ejercicios con estructuras condicionales (if/else, switch).
 
